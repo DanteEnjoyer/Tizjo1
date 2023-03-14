@@ -6,3 +6,5 @@ ala #.2k test
 kocha
 ala #.7k test
 kocha
+ala #6.7k test
+kocha
