@@ -6,3 +6,4 @@ ala  KOCHA test
   KO
    KOT
  KOTEK
+TESTOWA
