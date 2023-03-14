@@ -5,3 +5,4 @@ ala KOCHA test
 ala  KOCHA test
   KO
    KOT
+ KOTEK
