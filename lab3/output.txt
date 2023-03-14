@@ -7,3 +7,4 @@ ala  KOCHA test
    KOT
  KOTEK
 TESTOWA
+#0.2k
