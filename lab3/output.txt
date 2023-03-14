@@ -3,3 +3,4 @@ ala MA kota
 ala KO test
 ala KOCHA test
 ala  KOCHA test
+  KO

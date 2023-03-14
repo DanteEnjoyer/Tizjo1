@@ -8,3 +8,5 @@ ala #.7k test
 kocha
 ala #6.7k test
 kocha
+#4.2k
+kotek
