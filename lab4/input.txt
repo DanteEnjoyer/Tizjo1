@@ -8,3 +8,5 @@ Ala ma #g kotow
 
 #g
 00000
+#g
+0
