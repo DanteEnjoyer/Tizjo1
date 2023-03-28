@@ -13,6 +13,12 @@ def my_printf(format_string,param):
                 shouldDo=False
                 if param == "":
                    continue
+                flag_l = False
+                for i in param:
+                    if i.isalpha():
+                        flag_l = True
+                if flag_l == True:
+                    continue
                 result2+=str(int(eval(param)))
                 result+= str(result2[::-1])
                 result=str(int(result))
