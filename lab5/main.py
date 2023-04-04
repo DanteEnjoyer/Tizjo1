@@ -18,6 +18,10 @@ def my_printf(format_string,param):
                     i=i+1
                 else:
                     min=match.group(1)
+                    if min == None:
+                        print(format_string[i],end="")
+                        i=i+1
+                        continue
                     iter=int(min)
                     result = ""
                     for c in param:
