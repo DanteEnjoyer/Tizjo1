@@ -8,7 +8,13 @@ test #2g
 154
 test #g xd
 
-test kolejny
-
+#2g
+4
 xd #5g test
 0000
+#gi?
+123
+#1g
+1
+moja ulubiona liczba to #2g
+70
