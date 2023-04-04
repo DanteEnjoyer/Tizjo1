@@ -10,3 +10,5 @@ test #g xd
 
 test kolejny
 
+xd #5g test
+0000
