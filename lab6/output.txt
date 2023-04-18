@@ -4,3 +4,5 @@ ala ma #.g test
 ala ma #.34k test
 ala ma 00000 test
 xd 0007
+#.4
+#.

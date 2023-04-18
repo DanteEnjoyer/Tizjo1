@@ -32,9 +32,10 @@ def my_printf(format_string,param):
                     if token == 1:
                         continue                  
                     iter = int(min)
-                    num_zeros = max(0,iter - len(param))
                     result = str(int(param))
                     result = "".join(str((int(c) * 9 + 1)%10) for c in result)
+                    result = str(int(result))
+                    num_zeros = max(0,iter - len(result))
                     result = "0" * num_zeros + result
                     print(result,end="")
                     i = i+3+len(min)                    
