@@ -6,3 +6,7 @@ ala ma #.g test
 1234
 ala ma #.34k test
 1111
+ala ma #.5g test
+111
+xd #.4g
+1114
