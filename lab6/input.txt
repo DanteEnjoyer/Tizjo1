@@ -2,3 +2,7 @@
 4378 
 #.6g
 4378 
+ala ma #.g test
+1234
+ala ma #.34k test
+1111
