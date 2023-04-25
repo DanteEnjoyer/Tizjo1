@@ -10,3 +10,7 @@ ala ma#j kota
 47
 #j
 48
+ala ma #j kota
+abcefd
+ala ma #j kota
+

@@ -12,7 +12,11 @@ def my_printf(format_string,param):
             if i >= len(format_string):
                 break
             if format_string[i] == '#' and format_string[i+1] == 'j':
-                temp = hex(int(param))             
+                if not param.isnumeric():
+                    print(format_string[i],end="")
+                    i = i+1
+                    continue
+                temp = str(hex(int(param)))[2:]             
                 new_res = ""
                 for c in temp:
                     if c in "abcdef":
