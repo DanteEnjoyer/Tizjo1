@@ -1,3 +1,6 @@
 test 43
+7
 test #f 43
+8
 test #c 43
+9

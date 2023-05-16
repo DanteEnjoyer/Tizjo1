@@ -1,24 +1,6 @@
-test test
-test
-test #g test
-test2
-test #j test
-test3
-test #k shorr
-a
-test #k shorr
-b
-test #k shorr
-c 
 test #k abecadlo
 absadasfeEFGRFDfsdfsdfDFWDWFWF
 test #k d
 dasd dasdasdasdasdcdasdasdasdasdffbaebrsendsbdsbgf
 test #k duck 
 fdsfdfgdfgdfghdfhgfhgfjfghjgfjghjghfhjfdfsfweetq3wrwrewrewrewrwerwr3rewrwerewrppopo[[ppop
-test 43
-7
-test #f 43
-8
-test #c 43
-9
