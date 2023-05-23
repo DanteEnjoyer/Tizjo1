@@ -1,20 +1,46 @@
-totafsdfsf # fdsfsdf
-test
-totafsd# fdsfsdf fdfjs
-test2
-jfldjfldk # wynik
-test3
-fjdfsfds # k alal
-test4
-djfjkldsjf jjjjjj fsfjdljfdlsj flj ldfj
-test5
-gjjkdsljflds jdlkfjdslf
-test6
-fjdslkfjdl tttttt
-test7
-fjdlsjfkl oooolll
-test8
-rwrewrew fjdslkjfdl
-test9
-fjdlskjfldjflj rewrewrew
-test10
+#.3h
+1234.3
+#.1h
+1234.34343
+#.0h
+1234.3
+#.5h
+1234.32145
+#.3h
+1234.36564
+#.2h
+7890.3
+#.8h
+567.30789
+.#.0h.
+0.21
+.#.1h.
+0.34
+.#.2h.
+0.4
+.#.3h.
+0.55
+.#.4h.
+0.155
+#1221.5435345h
+0.0
+#h
+0.0
+3213.#h12233
+0.1
+#.3231z
+0.313
+#.5H
+0.0
+.#.0h.
+123456789.0
+.#.0h.
+36743232432.0
+.#.0h.
+131313145432445654656434232.0
+.#.0h.
+3424324324324234.0
+.#.0h.
+9999999999999999999.0
+.#.0h.
+53453453453453453453453423.0
