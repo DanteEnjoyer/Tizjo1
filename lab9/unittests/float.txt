@@ -1,20 +1,14 @@
-totafsdfsf #l fdsfsdf
-test
-totafsd#l fdsfsdf fdfjs
-tes
-jfldjfldk # wynik
-te
-fjdfsfds # k alal
-t
-djfjkldsjf #l jjjjjj fsfjdljfdlsj flj ldfj
-o
-gjjkdsljflds #l jdlkfjdslf
-s
-fjdslkfjdl #l tttttt
-7
-fjdlsjfkl #l oooolll
-8
-rwrewrew #l fjdslkjfdl
-9
-fjdlskjfldjflj #l rewrewrew
-0
+#.3h
+1234.3
+#.1h
+1234.34343
+#.0h
+1234.3
+#.5h
+1234.32145
+#.3h
+1234.36564
+#.2h
+7890.3
+#.8h
+567.30789
