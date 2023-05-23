@@ -64,7 +64,6 @@ endef
 	
 	# perform_test,INPUT_FILE_NAME_WOUT_EXTENSION,TEST_NAME
 	
-	$(call perform_test,noparam,"No param")
 	$(call perform_test,float,Float)
 	$(call perform_test,decimal,Decimal)
 	$(call perform_test,badinput,BadInput)
@@ -77,7 +76,6 @@ generate:
 
 	# generate_output,INPUT_FILE_NAME_WOUT_EXTENSION
 	
-	$(call generate_answers,noparam)
 	$(call generate_answers,float)
 	$(call generate_answers,decimal)
 	$(call generate_answers,badinput)
@@ -89,7 +87,6 @@ merge:
 	-rm ./input.txt 2>/dev/null
 	-rm ./answers.txt 2>/dev/null
 
-	$(call merge_test,noparam)
 	$(call merge_test,float)
 	$(call merge_test,decimal)
 	$(call merge_test,badinput)

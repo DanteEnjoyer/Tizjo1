@@ -22,6 +22,8 @@ def my_printf(format_string,param):
                         print(format_string[i],end="")
                         i = i+1
                         continue
+                    if param == "":
+                        continue
                     param = float(param)
                     replace_with = f"{param:.{min}f}"               
                     first_part = ''
