@@ -68,6 +68,7 @@ endef
 	$(call perform_test,float,Float)
 	$(call perform_test,decimal,Decimal)
 	$(call perform_test,badinput,BadInput)
+	$(call perform_test,int,Int)
 
 	$(call restore_data)
 
@@ -80,6 +81,7 @@ generate:
 	$(call generate_answers,float)
 	$(call generate_answers,decimal)
 	$(call generate_answers,badinput)
+	$(call generate_answers,int)
 
 	$(call restore_data)
 
@@ -91,3 +93,4 @@ merge:
 	$(call merge_test,float)
 	$(call merge_test,decimal)
 	$(call merge_test,badinput)
+	$(call merge_test,int)
