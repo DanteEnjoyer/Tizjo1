@@ -20,6 +20,9 @@ def my_printf(format_string,param):
                 new_num = int((param*2)/len(str(abs(param))))           
                 if new_num % 2 != 0:
                     new_num=hex(new_num).replace('0x','')      
+                new_num = str(new_num)
+                print(new_num,end="")
+                i = i+2
             else:
                 print(format_string[i],end="")
                 i = i+1
