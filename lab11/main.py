@@ -22,7 +22,7 @@ def my_printf(format_string,param):
                 binary = str(format(param, 'b'))[::-1]          
                 for c in binary:
                     if c == '1':
-                        if counter == 10:
+                        if counter >= 10:
                             counter = 0
                         result += chr(ord(c) + 48 + counter)
                     else:
