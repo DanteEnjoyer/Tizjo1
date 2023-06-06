@@ -7,9 +7,9 @@ Ala ma #b kotow
 Ala ma #b kotow
 150
 Ala ma #b kotow
-2048
+1024
 Ala ma #b kotow
-2047
+1023
 Ala ma #b kotow
 8
 Ala ma #b kotow

@@ -64,8 +64,8 @@ endef
 	
 	# perform_test,INPUT_FILE_NAME_WOUT_EXTENSION,TEST_NAME
 	
-	$(call perform_test,powerless,"2 power lower than 10 or equal")
-	$(call perform_test,powerful,"2 power higher than 10")
+	$(call perform_test,powerless,"2 power lower than 9 or equal")
+	$(call perform_test,powerful,"2 power higher than 9")
 
 	$(call restore_data)
 
