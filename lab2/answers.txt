@@ -4,9 +4,6 @@ test .4j test
 test AB shorr
 test B shorr
 test CEB shorr
-test ABSADASFEefg abecadlo
-test DASD DASDASDAS d
-test FDSFDFGDFGDFGHDFHGFHGFJFG duck
 test 43
 test #f 43
 test #c 43
